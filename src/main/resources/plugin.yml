@@ -1,0 +1,17 @@
+name: FranekCustomItems
+version: '1.0'
+api-version: '1.20'
+author: franekk
+website: https://github.com/Blejziak
+description: Plugin made by franekk - https://github.com/Blejziak
+main: dev.franek.customitems.CustomItemsPlugin
+softdepend:
+  - FastAsyncWorldEdit
+  - WorldEdit
+  - WorldGuard
+
+commands:
+  customitems:
+    description: Menu przedmiotow specjalnych FranekCustomItems
+    usage: /customitems
+    permission: franek.customitems.command
