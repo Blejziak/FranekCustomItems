@@ -6,10 +6,6 @@ Custom itemy pod serwer Anarchia / BoxPvP (Excalibur z licznikiem killi, Boski T
 
 Wszystkie itemy, ich nazwy, lore, cooldowny i efekty ustawia sie w configu. Wspolpracuje z WorldGuardem (blokada uzywania na spawnie) i WorldEditem (wklejanie schematow z `schematics/`).
 
-## Podglad w grze
-
-![showcase](assets/showcase.png)
-
 ## Komendy
 
 | Komenda | Co robi |
